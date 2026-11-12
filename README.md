@@ -1,5 +1,9 @@
 # Autonomous Visual Researcher
 
+<img width="957" height="519" alt="image" src="https://github.com/user-attachments/assets/9c0b0046-3748-4a2e-9d9d-2019b3507328" />
+<img width="958" height="490" alt="image" src="https://github.com/user-attachments/assets/f664430e-d04a-41d5-a9d7-1788ab315915" />
+
+
 > New here? Follow [SETUP.md](SETUP.md) to get it running. Engineering notes (review, architecture, testing, operations) are in [docs/ENGINEERING.md](docs/ENGINEERING.md).
 
 Give the agent an image and a research question. It identifies the subject, works out
